@@ -27,7 +27,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA93IhxcusukBq7etzKR0oIxjpLDY0beSU" />
+            android:value="${GMP_KEY}" />
 
         <activity
             android:name="com.example.wirelessLocationMapping.MainActivity"
